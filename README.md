@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sumudu Madhubhashini, ICT undergraduate, University of Ruhuna.
+I'm Sumudu Madhubhashini, ICT undergraduate, University of Ruhuna. I really enjoying learning new technologies and design.
 <!--
 **sumudu16uor/sumudu16uor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
