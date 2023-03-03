@@ -6,7 +6,7 @@ I'm Sumudu Madhubhashini, ICT undergraduate, University of Ruhuna. I really enjo
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my final year research.
-- 🌱 I’m currently learning data mining and quality assurance.
+- 🌱 I’m currently learning data mining, quality assurance, .net and React.
 - 👯 I’m looking forward to working as a QA Engineer.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
