@@ -23,6 +23,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumudu16uor&show_icons=true&theme=radical)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumudu16uor&show_icons=true&locale=en" alt="sumudu16uor" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumudu16uor&" alt="sumudu16uor" /></p>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumudu16uor&show_icons=true&locale=en&layout=compact" alt="sumudu16uor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumudu16uor&" alt="sumudu16uor" />
