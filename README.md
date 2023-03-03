@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sumudu Madhubhashini</h1>
 <h3 align="center">Final Year Undergraduate</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/programming-gif-25868426"
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumudu16uor&label=Profile%20views&color=0e75b6&style=flat" alt="sumudu16uor" /> </p>
 
 - 🔭 I’m currently working on **my final year research "Identification of factors affecting Social Anxiety Disorder among university students in Sri Lanka" which is developing using data mining and machine learning.**
